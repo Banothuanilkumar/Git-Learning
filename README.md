@@ -1,2 +1,2 @@
 # Git-Learning
-I ma very excited to learn GitHub platform 
+I am very excited to learn GitHub platform 
